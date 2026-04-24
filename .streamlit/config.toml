@@ -1,0 +1,15 @@
+[theme]
+base = "dark"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+enableCORS = false
+enableXsrfProtection = true
+
+[ui]
+hideTopBar = false  # Keep false - Manage app sirf admin ko dikhega
+
+[client]
+showErrorDetails = false  # Hide error details from users
